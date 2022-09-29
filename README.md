@@ -12,7 +12,7 @@ It is a cross-platform application made with Flutter which will run on both iOS 
 
 I've made a Quiz app. You can answer the questions get your final score. With this app in your pocket, you’ll challenge any friend of yours on the go!
 
-![Finished App](https://media2.giphy.com/media/T4snCAUGdwuYXjTwbO/giphy.gif?cid=790b76117087c644737f076a5090d740f9f00815fe7b1ae2&rid=giphy.gif&ct=g)
+![Finished App](https://raw.githubusercontent.com/BanksBond/Images/main/Quizzler.gif)
 
 ## What I learned
 
